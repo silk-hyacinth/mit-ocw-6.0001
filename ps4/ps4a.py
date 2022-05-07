@@ -1,5 +1,5 @@
 # Problem Set 4A
-# Name: Benjamin Wang
+# Name: B** W** edited for github
 # Collaborators:
 # Time Spent: 3 hours probably
 
