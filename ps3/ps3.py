@@ -3,7 +3,7 @@
 # The 6.0001 Word Game
 # Created by: Kevin Luu <luuk> and Jenna Wiens <jwiens>
 #
-# Name          : Benjamin Wang
+# Name          : B**** w**
 # Collaborators : nobody lol
 # Time spent    : 1/29 20min; 2/1 50min 2/2 150min 2/3 180min
 
