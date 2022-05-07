@@ -1,5 +1,5 @@
 # Problem Set 2, hangman.py
-# Name: ben w
+# Name: b*********************************************** *************** edited for github again
 # Collaborators: noo one
 # Time spent: 2hr 12/27 2.5hr 12/30
 
